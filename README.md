@@ -6,15 +6,15 @@ Este é o backend para o teste técnico, construído utilizando as seguintes tec
 
 
 
-* **Node.js:** Um ambiente de tempo de execução JavaScript construído sobre o motor JavaScript do Chrome.
+* **Node.js:** 
 
-* **Express:** Um framework web minimalista e flexível para Node.js.
+* **Express:**
 
-* **Zod:** Uma biblioteca de declaração e validação de esquemas TypeScript com inferência de tipos.
+* **Zod:** 
 
-* **TypeORM:** Um ORM (Object-Relational Mapping) para TypeScript e JavaScript que pode ser executado em Node.js, Browser, NativeScript, Ionic, Deno e Electron plataformas e pode ser usado com TypeScript e JavaScript.
+* **TypeORM:** 
 
-* **PostgreSQL:** Um sistema de gerenciamento de banco de dados relacional de código aberto.
+* **PostgreSQL:** 
 * **Swagger:** Está disponível em: SEUHOST/api-docs
 
 
